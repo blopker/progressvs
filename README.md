@@ -4,6 +4,9 @@ Python VS Progress Benchmarks
 ##Summary
 Comparing the calculation speeds of Python and Progress.
 
+##Usage
+Just run the test file for each language.
+
 ##Tests
 ###Newton's
 Newton's method of finding minimums is used to calculate the square root.
