@@ -27,8 +27,10 @@ Results are in seconds and shows the total time for all iterations of each test.
 
 ###Python
 Total time for Newton's method: 1.8387305817
+
 Total time for Fibonacci's number: 1.04261769261
 
 ###Progress
 Total time for Newton's method: 22.132
+
 Total time for Fibonacci's number: 21.064
