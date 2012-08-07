@@ -26,9 +26,11 @@ Fibonacci's test will demonstrate how well each language deals with large stack 
 Results are in seconds and shows the total time for all iterations of each test.
 
 ###Python
-Total time for Newton's method: 1.8387305817
-Total time for Fibonacci's number: 1.04261769261
+Total time for Newton's method: 1.8387
+
+Total time for Fibonacci's number: 1.042
 
 ###Progress
 Total time for Newton's method: 22.132
+
 Total time for Fibonacci's number: 21.064
