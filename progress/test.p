@@ -13,11 +13,7 @@
   ----------------------------------------------------------------------*/
 
 /* ***************************  Definitions  ************************** */
-DEFINE VARIABLE iStartTime AS DATETIME-TZ NO-UNDO.
-DEFINE VARIABLE iStopTime AS DATETIME-TZ NO-UNDO.
-DEFINE VARIABLE iTimeDiff AS INTEGER NO-UNDO.
 DEFINE VARIABLE i AS INTEGER NO-UNDO.
-DEFINE VARIABLE out AS DECIMAL NO-UNDO.
 /* ********************  Preprocessor Definitions  ******************** */
 
 
