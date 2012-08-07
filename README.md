@@ -22,7 +22,7 @@ This test is being run 100 times to find the 20th Fibonacci number.
 
 Fibonacci's test will demonstrate how well each language deals with large stack depths.
 
-##Resutls
+##Results
 Results are in seconds and shows the total time for all iterations of each test.
 
 ###Python
