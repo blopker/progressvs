@@ -7,6 +7,10 @@ Comparing the calculation speeds of Python and Progress.
 ##Usage
 Just run the test file for each language.
 
+For the C test run:
+
+`gcc test.c -lm -o test.exe -std=c99`
+
 ##Tests
 ###Newton's
 Newton's method of finding minimums is used to calculate the square root.
@@ -34,3 +38,8 @@ Total time for Fibonacci's number: 0.934
 Total time for Newton's method: 19.302
 
 Total time for Fibonacci's number: 19.753
+
+###C
+Total time for Newton's method: 0.028
+
+Total time for Fibonacci's number: 0.014
