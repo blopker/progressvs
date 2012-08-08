@@ -5,9 +5,23 @@ Python VS Progress Benchmarks
 Comparing the calculation speeds of Python and Progress.
 
 ##Usage
-Just run the test file for each language.
+###Python
 
-For the C test run:
+`python test.py`
+
+###Progress
+
+-	Open the procedure editor
+-	Open test.p
+-	Go to Compile -> Run...
+
+###Java
+
+`javac Tester.java`
+
+`java Tester`
+
+###C
 
 `gcc test.c -lm -o test.exe -std=c99`
 
@@ -43,3 +57,8 @@ Total time for Fibonacci's number: 19.753
 Total time for Newton's method: 0.028
 
 Total time for Fibonacci's number: 0.014
+
+###Java
+Total time for Newton's method: 0.132
+
+Total time for Fibonacci's number: 0.028
